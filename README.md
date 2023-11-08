@@ -2,7 +2,8 @@
 CMFIMF0010 Final project
 Team name: ChengGrapponelI
 
-Team members and email addresses
+Team members and email addresses:
+
 Haolianng Cheng: hac177@pitt.edu
 Enzo Grappone: erg114@pitt.edu
 Kevin Li:yul424@pitt.edu
