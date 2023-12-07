@@ -12,15 +12,15 @@ Kevin Li: yul424@pitt.edu
 
 Datasets:
 
-Hospitals: https://data.wprdc.org/dataset/allegheny-county-primary-care-facilities/resource/a11c31cf-a116-4076-8475-c4f185358c2d
+1. Hospitals: https://data.wprdc.org/dataset/allegheny-county-primary-care-facilities/resource/a11c31cf-a116-4076-8475-c4f185358c2d
 
 This dataset shows the location of all the hospitals in Pittsburgh, and we use it to find which neighborhood has the most hospitals.
 
-Firearm Seizures: https://data.wprdc.org/dataset/pbp-fire-arm-seizures/resource/e967381d-d7e9-48e3-a2a2-39262f7fa5c4
+2. Firearm Seizures: https://data.wprdc.org/dataset/pbp-fire-arm-seizures/resource/e967381d-d7e9-48e3-a2a2-39262f7fa5c4
 
 This dataset shows the location of all the firearms in Pittsburgh, and we use it to find which neighborhood has the most firearms.
 
-Total Population: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/82f29015-6905-4b1c-8300-afe9bb2231b3
+3. Total Population: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/82f29015-6905-4b1c-8300-afe9bb2231b3
 
 This dataset shows the population information of each neighborhood in Pittsburgh, and we use it to find which neighborhood has the least people.
 
