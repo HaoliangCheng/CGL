@@ -2,13 +2,15 @@
 CMFIMF0010 Final project
 Team name: ChengGrapponelI
 
+Canvas group number: 32
+
 Team members and email addresses:
 
-Haolianng Cheng: hac177@pitt.edu
+Haolianng Cheng (Population dataset): hac177@pitt.edu 
 
-Enzo Grappone: erg114@pitt.edu
+Enzo Grappone (Firearms dataset): erg114@pitt.edu
 
-Kevin Li: yul424@pitt.edu
+Kevin Li (Hospitals dataset): yul424@pitt.edu
 
 Datasets:
 
