@@ -1,5 +1,5 @@
 # CGL
-### CMFIMF0010 Final project
+# CMFIMF0010 Final project
 
 Team name: ChengGrapponelI
 
